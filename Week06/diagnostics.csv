@@ -1,0 +1,3 @@
+2026-02-21 14:16:48,ping,1.1.1.1,9.686,Success
+2026-02-21 14:17:37,nslookup,georgebrown.ca,198.96.86.176,Success
+2026-02-21 14:18:00,ifconfig,en0,3e:bf:43:b5:57:b0 / 192.168.2.54,Captured
